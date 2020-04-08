@@ -11,6 +11,8 @@ You can directly write these kind of tests with a full-featured testing framewor
 
 If you like to write your tests directly inside your stories, we also have an addon called [specs](https://github.com/mthuret/storybook-addon-specifications).
 
+Unfortunately this project is no longer maintained and does not appear to support the new CSF story format.
+
 ![Storybook Specs Addon](../static/specs-addon.png)
 
 With that, you can write test specs directly inside stories.
